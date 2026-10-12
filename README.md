@@ -3,7 +3,7 @@
 A real-time data extraction and passenger matching backend built in C# to parse boarding pass screenshots, confirmation emails, and coordinate airport layovers.
 
 ## Technical Architecture
-* **Framework:** .NET 8 / ASP.NET Core
+* **Framework:** .NET 10 / ASP.NET Core
 * **Language:** C#
 * **Real-Time Communication:** SignalR for asynchronous passenger feed updates (`TerminalHub`).
 * **Database:** SQL Server
